@@ -1,11 +1,7 @@
 # VAE
-VAE in the continuous and discrete versions
+VAE in the continuous and discrete versions implemented by Jiangchao Yao.
 
 ------------------------------------------------------------------
-by Jiangchao Yao
-
-Implementation of vAE and the corresponding discrete version.
-
 
 Reference paper:
 
