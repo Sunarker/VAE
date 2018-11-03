@@ -1,5 +1,5 @@
-# VAE
-VAE in the continuous and discrete versions implemented by Jiangchao Yao.
+# VAE implemented by Jiangchao Yao
+VAE in the continuous and discrete versions (including the corresponding two kinds of importance-weighted measure respectively in the perspective of log-likelihood and KL-divergence.).
 
 ------------------------------------------------------------------
 
